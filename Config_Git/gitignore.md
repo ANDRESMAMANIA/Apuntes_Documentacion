@@ -1,0 +1,1 @@
+# **GitIgnore**: Configuración basica 
