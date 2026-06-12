@@ -21,12 +21,20 @@ Básicamente aquí se **instala y configura** la terminal para su uso optimo y a
 
 Es el tipo de programa que se ejecuta directamente dentro de la terminal. Su nombre técnico es **CLI**, que significa **Command Line Interface** (Interfaz de Línea de Comando).
 
-#### Yazi [Aqui](Programs/CLI/Yazi.md)
+#### Yazi [**Aqui**](Apuntes_Documentacion/Programs%201/CLI/Yazi.md):
 
-#### Git [Aquí](Config_Git)
+Yazi es un administrador de archivos moderno que se ejecuta directamente desde la terminal, diseñado para ser extremadamente rápido y eficiente.
+
+> - Para que cualquier persona lo entienda: es el equivalente al "Explorador de archivos" de Windows o al "Finder" de Mac, pero no utiliza ventanas ni animaciones pesadas. En su lugar, organiza tus carpetas en tres columnas visuales que te permiten navegar, previsualizar archivos (como imágenes, videos o código) y moverte por todo el sistema usando únicamente el teclado, sin tocar el mouse.
+
+#### Git [**Aquí**](Config_Git/git.md)
 
 > **[.gitconfig](Config_Git/gitconfig.md)**: Es el centro de control de Git en la maquina. Es un archivo de texto plano que almacena todas las preferencias, personalizaciones y comportamientos globales o locales que decides aplicar al usar la herramienta de control **GIT**  
 > [.gitignore](Config_Git/gitignore.md): es un archivo de texto plano que se coloca en la raíz de un repositorio de Git para indicarle al sistema qué archivos o carpetas debe ignorar por completo.
+
+#### rsync [**Aquí**](Programs/CLI/rsync.md)
+
+Es una herramienta de línea de comandos que permite **copiar, sincronizar y transferir archivos** tanto de forma **local** como **remota** de manera eficiente. Solo transfiere las **diferencias** entre archivos, lo que lo hace mucho más rápido que `cp`.
 
 ---
 
